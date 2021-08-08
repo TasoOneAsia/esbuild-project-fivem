@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "devDependencies": {
+    "@citizenfx/client": "^2.0.4348-1",
+    "@citizenfx/server": "^2.0.4348-1",
+    "esbuild": "^0.12.19",
+    "typescript": "^4.3.5"
+  }
+}

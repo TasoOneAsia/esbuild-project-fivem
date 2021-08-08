@@ -1,1 +1,3 @@
-console.log('NICE BRO')
+console.log('Hello')
+
+import './example_class'
